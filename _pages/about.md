@@ -52,8 +52,12 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 09/2006 - 06/2011, Zhejiang University, China
+Ph.D. in Communication and Information System, Advisor: Lu Yu (yul@zju.edu.cn)
+- 07/2007 – 05/2008, EPFL, Switzerland
+Joint Ph.D. program in GR-LSM (Research Group on Multimedia Architectures), Advisor: Marco Mattavelli (marco.mattavelli@epfl.ch)
+- 09/2002 – 06/2006, Zhejiang University, China
+B.S. in Communication Engineering
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
