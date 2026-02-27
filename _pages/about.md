@@ -48,9 +48,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Professional Experience
+- Hangzhou Normal University, Hangzhou, China. Professor, lead Intelligent Video Coding (IVC) lab, 12/2020 - now. Assistant Professor, 12/2015 - 11/2020
+- Zhejiang University, Hangzhou, China. Assistant Professor, 07/2013 - 11/2015
+- Zhejiang University, Hangzhou, China. Postdoctoral Researcher, 06/2013 - 07/2013
 
 # 📖 Educations
 - 09/2006 - 06/2011, Zhejiang University, China. 
