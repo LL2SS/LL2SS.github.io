@@ -22,10 +22,11 @@ Dandan Ding is an active member in multimedia communication. In 2007, she was in
 Her recent research focuses on next-generation visual compression, including AV2 and MPEG AI-based point cloud and 3DGS compression, as well as real-time system implementations on NPU and FPGA platforms. She was invited to present her AV1-related research at the AOM Symposium in 2019, and since 2018, she has been continuously supported by Google’s Chrome University Relationship Program to advance AV2 development.
 She is the IEEE Senior Member and is currently serving as an Associate Editor of IEEE Signal Processing Letters. She has served as Organizing Co-Chair of ICME Workshop 2023, International Liaison Co-Chair of MMSP 2024, and Area Chair for MMSP 2025, ICASSP 2026 and ICME 2026.
 
+<!--
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+-->
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -52,11 +53,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- 09/2006 - 06/2011, Zhejiang University, China
+- 09/2006 - 06/2011, Zhejiang University, China. 
 Ph.D. in Communication and Information System, Advisor: Lu Yu (yul@zju.edu.cn)
-- 07/2007 – 05/2008, EPFL, Switzerland
+- 07/2007 – 05/2008, EPFL, Switzerland. 
 Joint Ph.D. program in GR-LSM (Research Group on Multimedia Architectures), Advisor: Marco Mattavelli (marco.mattavelli@epfl.ch)
-- 09/2002 – 06/2006, Zhejiang University, China
+- 09/2002 – 06/2006, Zhejiang University, China. 
 B.S. in Communication Engineering
 
 # 💬 Invited Talks
